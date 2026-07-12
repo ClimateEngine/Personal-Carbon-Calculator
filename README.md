@@ -112,30 +112,20 @@ Receive practical suggestions for reducing your environmental impact.
 
 # 📸 Carbon Calculator Web App
 
-> *https://github.com/ClimateEngine/Personal-Carbon-Calculator/blob/main/Carbon%20Calculator%20Web%20App.png*
+![Carbon Calculator Web App](https://github.com/ClimateEngine/Personal-Carbon-Calculator/blob/main/Carbon%20Calculator%20Web%20App.png)
 
 ## 🏠 Results Dashboard
 
-```
-https://github.com/ClimateEngine/Personal-Carbon-Calculator/blob/main/Result%20Dashboard.png
-```
-
----
+![Results Dashboard](https://github.com/ClimateEngine/Personal-Carbon-Calculator/blob/main/Result%20Dashboard.png)
 
 ## 📊 Benchmark Comparison
 
-```
-https://github.com/ClimateEngine/Personal-Carbon-Calculator/blob/main/Benchmark%20Comparison.png
-```
-
----
+![Benchmark Comparison](https://github.com/ClimateEngine/Personal-Carbon-Calculator/blob/main/Benchmark%20Comparison.png)
 
 ## 📈 Sustainability Recommendations
 
-```
-https://github.com/ClimateEngine/Personal-Carbon-Calculator/blob/main/Sustainability%20Recommendations.png
+![Sustainability Recommendations](https://github.com/ClimateEngine/Personal-Carbon-Calculator/blob/main/Sustainability%20Recommendations.png)
 
-```
 
 ---
 
