@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge\&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-red?style=for-the-badge\&logo=streamlit)
-![Plotly](https://img.shields.io/badge/Plotly-Interactive_Charts-blueviolet?style=for-the-badge\&logo=plotly)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive_Charts-blueviolet?style=for-the-badge\&logo=plotly) 
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ---
