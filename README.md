@@ -112,12 +112,12 @@ Receive practical suggestions for reducing your environmental impact.
 
 # 📸 Carbon Calculator Web App
 
-> *(Replace these placeholders with screenshots of your application.)*
+> *https://github.com/ClimateEngine/Personal-Carbon-Calculator/blob/main/Carbon%20Calculator%20Web%20App.png*
 
 ## 🏠 Results Dashboard
 
 ```
-Insert Screenshot Here
+https://github.com/ClimateEngine/Personal-Carbon-Calculator/blob/main/Result%20Dashboard.png
 ```
 
 ---
@@ -125,7 +125,7 @@ Insert Screenshot Here
 ## 📊 Benchmark Comparison
 
 ```
-Insert Screenshot Here
+https://github.com/ClimateEngine/Personal-Carbon-Calculator/blob/main/Benchmark%20Comparison.png
 ```
 
 ---
@@ -133,7 +133,7 @@ Insert Screenshot Here
 ## 📈 Sustainability Recommendations
 
 ```
-Insert Screenshot Here
+https://github.com/ClimateEngine/Personal-Carbon-Calculator/blob/main/Sustainability%20Recommendations.png
 
 ```
 
